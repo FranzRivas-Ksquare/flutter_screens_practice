@@ -26,13 +26,14 @@ flutter:
 
   assets:
     - assets/images/app_screen_background.jpg
-    - assets/images/avatar.png
     - assets/images/google.png
     - assets/images/products/switch.jpg
     - assets/images/social_media/facebook.png
     - assets/images/social_media/insta.png
     - assets/images/social_media/twitter.png
     - assets/images/social_media/youtube.png
+    - assets/images/social_media/telegram.png
+    - assets/images/social_media/star.png
 
 
   fonts:
