@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:screens_practice/practice_18.dart';
+import 'package:screens_practice/practice_20.dart';
 
 void main() {
   runApp(const MyApp());
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Screens',
       theme: ThemeData.dark(),
-      home: Practice18(),
+      home: Practice20(),
     );
   }
 }
